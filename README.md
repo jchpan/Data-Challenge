@@ -10,6 +10,6 @@
 
 2019 Median Household Income in US: https://www.census.gov/library/visualizations/interactive/2019-median-household-income.html
 
-## The numbers of injury source
+## The number of injuries source
 2009 & 2010 by county-name: https://data.ca.gov/dataset/road-traffic-injuries
 
